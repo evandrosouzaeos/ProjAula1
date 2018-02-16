@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\ProjAula1\ProjAula1\bin\Debug\ProjAula1.exe.config
+C:\Users\aluno\source\repos\ProjAula1\ProjAula1\bin\Debug\ProjAula1.exe
+C:\Users\aluno\source\repos\ProjAula1\ProjAula1\bin\Debug\ProjAula1.pdb
+C:\Users\aluno\source\repos\ProjAula1\ProjAula1\obj\Debug\ProjAula1.csprojResolveAssemblyReference.cache
+C:\Users\aluno\source\repos\ProjAula1\ProjAula1\obj\Debug\ProjAula1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\ProjAula1\ProjAula1\obj\Debug\ProjAula1.exe
+C:\Users\aluno\source\repos\ProjAula1\ProjAula1\obj\Debug\ProjAula1.pdb
